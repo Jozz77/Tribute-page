@@ -1,0 +1,46 @@
+ body {
+     background-color: #eee;
+     display: block;
+     margin: 30px;
+     padding: 15px;
+ }
+header {
+    text-align: center;
+}
+#timeline {
+    margin: 0% 20% 0% 20%;      
+}
+#Here {
+    text-align: center;
+}
+main {
+    display: block;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 90%;
+    padding-top: 30px;
+  }
+#pic {
+    background-color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: auto;
+    margin-top: -60px;
+}
+#last {
+    text-align: center;
+    font-size: larger;
+}
+#Nelson {
+    font-size: 3em;
+}
+#Man {
+    font-size: larger;
+    margin-top: -10px;
+}
